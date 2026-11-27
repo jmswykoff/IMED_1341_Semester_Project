@@ -87,7 +87,7 @@ body{
     max-width: 220px;
     margin-top: 30px;
     align-items: center;
-    background: linear-gradient(135deg, #171185ef, #575ae0b2, #2b28da88);
+    background: linear-gradient(135deg, #3d1313ef, #eb4f4fb2, #cf1818ab);
     color: white;
     padding: 14px 28px;
     border: none;
@@ -204,8 +204,7 @@ body{
     width: 100%;
     max-width: 220px;
     margin-top: auto;
-    /* align-items: center; */
-    background: linear-gradient(135deg, #171185ef, #575ae0b2, #2b28da88);
+    background: linear-gradient(135deg, #121118ef, #c73333b2, #4f4f5088);
     color: white;
     padding: 14px 28px;
     border-radius: 50px;

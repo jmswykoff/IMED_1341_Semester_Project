@@ -280,7 +280,7 @@ body{
 
 /* FOOTER */
 footer{
-    background-color: #1a2c92ef;
+    background-color: hsla(231, 69%, 11%, 0.937);
     color: white;
     border-top: 1px solid black;
     padding: 5px;
